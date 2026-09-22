@@ -1,399 +1,156 @@
 <div align="center">
 
-# `ANURAG KUMAR DAS`
-
-### Full-Stack Developer · Security Researcher · Bug Hunter
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58D9F9&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Breaking+things+to+understand+them;Full-Stack+Development+%7C+Cybersecurity;Currently+learning%2C+building%2C+shipping." alt="Typing SVG" />
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58D9F9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anurag+Kumar+Das;Full-Stack+Developer;Security+Researcher;BCA+Student+%40+Patan+Campus;Bug+Bounty+Hunter" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/Anurag666-bot">
-<img src="https://img.shields.io/badge/GitHub-Anurag666--bot-0D1117?style=for-the-badge&logo=github&logoColor=58D9F9" />
-</a>
-<a href="mailto:anuragkarn56@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=58D9F9" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Anurag666-bot&label=PROFILE+VIEWS&color=58D9F9&style=flat-square" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3FB950?style=flat-square" />
-<img src="https://img.shields.io/badge/BASED%20IN-NEPAL-8B949E?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Anurag666-bot&label=Profile%20Views&color=58D9F9&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-3FB950?style=for-the-badge" alt="Open to work" />
+<img src="https://img.shields.io/badge/Location-Lalitpur%2C%20Nepal-8B949E?style=for-the-badge" alt="Location" />
 
 </div>
 
----
+<br>
 
-## `~/whoami`
-
-```bash
-┌──[anurag@github]─[~]
-└─$ whoami
-
-Full-Stack Developer & Security Researcher
-```
+## `// about`
 
 ```js
 const anurag = {
-    name: "Anurag Kumar Das",
-
-    role: [
-        "Full-Stack Developer",
-        "Security Researcher"
-    ],
-
-    education: "BCA @ Patan Multiple Campus",
-
-    currentRole: "Full-Stack Web Development Intern @ Echo Innovators",
-
-    stack: {
-        frontend: ["React", "Next.js", "JavaScript", "HTML", "CSS", "Bootstrap", "Tailwind"],
-        backend: ["Node.js", "Express.js", "PHP"],
-        databases: ["MongoDB", "MySQL"],
-        languages: ["JavaScript", "Python", "PHP", "Java", "C"],
-    },
-
-    security: [
-        "Web Application Security",
-        "Bug Hunting",
-        "Reconnaissance",
-        "API Security",
-        "Secure Coding"
-    ],
-
-    mindset: "Build → Test → Break → Learn → Improve"
+  role: "Full-Stack Developer & Security Researcher",
+  education: "BCA @ Patan Multiple Campus, Lalitpur",
+  internship: "Frontend Developer Intern @ Echo Innovators",
+  focus: ["Full-Stack Development", "Cybersecurity", "Bug Bounty Hunting"],
+  currentlyBuilding: "Next.js apps, PHP/MySQL systems, Python AI pipelines",
+  funFact: "I write the code, then try to break it 🔓"
 };
 ```
 
----
+<br>
 
-## `// current mission`
+## `// tech stack`
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 💻 Building
+**Languages**
 
-Currently working on modern full-stack applications with:
+<img src="https://skillicons.dev/icons?i=python,php,java,c,js" />
 
-* React / Next.js
-* Node.js / Express
-* MongoDB
-* REST APIs
-* Authentication & authorization
-* Admin dashboards
-* Responsive UI
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind" />
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
+**Backend & Database**
 
-### 🔐 Researching
+<img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb,linux" />
 
-Exploring practical web security through:
+**Tools & Concepts**
 
-* Web application testing
-* API security
-* Recon methodology
-* Vulnerability research
-* Bug bounty programs
-* Secure development practices
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## `// tech arsenal`
+**Security Toolkit**
 
-### Languages
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-58D9F9?style=flat-square&logoColor=white&color=161B22&labelColor=58D9F9)
+![Nuclei](https://img.shields.io/badge/Nuclei-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
+![FFUF](https://img.shields.io/badge/FFUF-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
+![Subfinder](https://img.shields.io/badge/Subfinder-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
+![Amass](https://img.shields.io/badge/Amass-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
+![HTTPX](https://img.shields.io/badge/HTTPX-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
+![Katana](https://img.shields.io/badge/Katana-58D9F9?style=flat-square&color=161B22&labelColor=58D9F9)
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,python,php,java,c" />
-</p>
+</div>
 
-### Frontend
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
-</p>
+## `// featured projects`
 
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,npm" />
-</p>
-
-### Security Toolkit
-
-<p>
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge\&logo=burpsuite\&logoColor=FF6633)
-![Nuclei](https://img.shields.io/badge/Nuclei-111111?style=for-the-badge\&logoColor=58D9F9)
-![FFUF](https://img.shields.io/badge/FFUF-111111?style=for-the-badge\&logoColor=58D9F9)
-![Subfinder](https://img.shields.io/badge/Subfinder-111111?style=for-the-badge\&logoColor=58D9F9)
-![Amass](https://img.shields.io/badge/Amass-111111?style=for-the-badge\&logoColor=58D9F9)
-![HTTPX](https://img.shields.io/badge/HTTPX-111111?style=for-the-badge\&logoColor=58D9F9)
-![Katana](https://img.shields.io/badge/Katana-111111?style=for-the-badge\&logoColor=58D9F9)
-
-</p>
-
----
-
-# `// selected work`
-
-<table>
+<table align="center">
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-## 🛒 Ecommerce Platform
-
-A full-stack ecommerce platform focused on real-world application architecture.
-
-**Built with**
+### 🛒 [Ecommerce Platform](https://github.com/Anurag666-bot/ecommerce-platform)
+Full-stack ecommerce app with auth, cart, checkout, and admin dashboard.
 
 `Next.js` `React` `MongoDB` `Tailwind`
 
-**Features**
-
-* Authentication
-* Product management
-* Shopping cart
-* Checkout flow
-* Admin dashboard
-* Database integration
-
-<a href="https://github.com/Anurag666-bot/ecommerce-platform">↗ View Repository</a>
-
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-## 💍 Shadi.com
-
-A matchmaking platform designed around user profiles, preferences and intelligent matching.
-
-**Built with**
-
-`React` `Node.js` `Express` `MongoDB`
-
-**Features**
-
-* Authentication
-* Profile management
-* Preference-based search
-* Matchmaking
-* Contact system
-* Admin management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🗳️ Online Voting System
-
-A web-based voting platform with administrative controls and database-backed election management.
-
-**Built with**
+### 🗳️ [Online Voting System](https://github.com/Anurag666-bot/online-voting-system)
+Secure web-based voting platform with election admin tools.
 
 `PHP` `MySQL` `Bootstrap`
 
-**Focus**
-
-* Authentication
-* Election management
-* Candidate management
-* Voting workflow
-* Admin controls
-
-<a href="https://github.com/Anurag666-bot/online-voting-system">↗ View Repository</a>
-
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-## 🤖 AI Content Pipeline
-
-An experimental AI content-generation pipeline combining multiple AI technologies.
-
-**Built with**
+### 🤖 [AI Avatar Content Pipeline](https://github.com/Anurag666-bot/content-creation-system)
+Real-time AI avatar generation with TTS, Stable Diffusion & SadTalker.
 
 `Python` `FastAPI` `Stable Diffusion`
 
-**Focus**
-
-* AI generation
-* API integration
-* Text-to-speech
-* Avatar generation
-* Automated processing
-
-<a href="https://github.com/Anurag666-bot/content-creation-system">↗ View Repository</a>
-
 </td>
+<td width="50%">
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚂 Railway Management System
-
-A database-driven railway ticket booking system designed around normalized relational data.
-
-**Built with**
+### 🚂 [Railway Management System](https://github.com/Anurag666-bot/railway-ticket-booking-system)
+Full-stack railway booking platform with normalized DB design.
 
 `PHP` `MySQL` `JavaScript`
 
-**Focus**
-
-* Ticket booking
-* User management
-* Database design
-* Booking workflows
-* Administrative features
-
-<a href="https://github.com/Anurag666-bot/railway-ticket-booking-system">↗ View Repository</a>
-
 </td>
-
-<td width="50%" valign="top">
-
-## 🧪 Security Research
-
-Independent exploration of web application security and responsible vulnerability research.
-
-**Focus**
-
-`Web Security` `API Testing` `Recon` `Bug Bounty`
-
-**Approach**
-
-```text
-Recon
-  ↓
-Enumerate
-  ↓
-Understand
-  ↓
-Test
-  ↓
-Validate
-  ↓
-Document
-```
-
-</td>
-
 </tr>
 </table>
 
----
-
-# `// developer philosophy`
-
 <div align="center">
 
-### `I don't just build applications.`
-
-### `I try to understand how they can fail.`
-
-<br>
-
-`BUILD` → `TEST` → `BREAK` → `LEARN` → `HARDEN`
-
-</div>
-
----
-
-## `// github telemetry`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anurag666-bot&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58D9F9&icon_color=58D9F9&text_color=C9D1D9&border_color=30363D&hide_border=false&rank_icon=github" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag666-bot&theme=tokyonight&background=0D1117&ring=58D9F9&fire=58D9F9&currStreakLabel=58D9F9&border=30363D&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" height="180" />
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-58D9F9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Anurag666-bot?tab=repositories)
 
 </div>
 
 <br>
 
+## `// github stats`
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag666-bot&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58D9F9&text_color=C9D1D9&border_color=30363D&langs_count=8" height="180" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Anurag666-bot&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58D9F9&icon_color=58D9F9&text_color=8B949E&border_color=30363D&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag666-bot&theme=tokyonight&background=0D1117&ring=58D9F9&fire=58D9F9&currStreakLabel=58D9F9&border=30363D&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub Streak" height="165"/>
 </div>
 
----
-
-## `// contribution activity`
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag666-bot&bg_color=0D1117&color=58D9F9&line=58D9F9&point=F0F6FC&area=true&hide_border=false&custom_title=Anurag's%20Contribution%20Graph" width="95%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag666-bot&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58D9F9&text_color=8B949E&border_color=30363D&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag666-bot&theme=tokyo-night&bg_color=0D1117&color=58D9F9&line=58D9F9&point=F0F6FC&area=true&hide_border=false" alt="Activity Graph" height="165"/>
 </div>
 
----
+<br>
 
-# `// roadmap`
-
-```text
-[████████████████████] Full-Stack Development
-
-[███████████████░░░░░] Advanced React / Next.js
-
-[████████████░░░░░░░░] Backend Architecture
-
-[██████████░░░░░░░░░░] Application Security
-
-[████████░░░░░░░░░░░░] API Security
-
-[██████░░░░░░░░░░░░░░] Advanced Security Research
-```
-
-> The goal isn't to know everything.
-> The goal is to keep building, breaking, understanding, and improving.
-
----
-
-## `// connect`
+## `// connect with me`
 
 <div align="center">
 
-<a href="mailto:anuragkarn56@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-anuragkarn56%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58D9F9" />
-</a>
+[![Email](https://img.shields.io/badge/Email-anuragkarn56@gmail.com-58D9F9?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:anuragkarn56@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Anurag666--bot-161B22?style=for-the-badge&logo=github&logoColor=58D9F9)](https://github.com/Anurag666-bot)
 
-<a href="https://github.com/Anurag666-bot">
-<img src="https://img.shields.io/badge/GITHUB-Anurag666--bot-0D1117?style=for-the-badge&logo=github&logoColor=58D9F9" />
-</a>
+<br>
+
+> 💬 Open to internships, freelance work, and bug bounty collaborations — feel free to reach out!
 
 </div>
 
 <br>
 
 <div align="center">
-
-### `Open to internships · freelance projects · developer collaborations`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58D9F9&height=120&section=footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
 </div>
